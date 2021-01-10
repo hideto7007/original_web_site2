@@ -307,4 +307,10 @@ h6 {
   position: relative;
   bottom: 175px;
 }
+
+
+@media only screen and (max-width: 750px) {
+  .sp { max-width: 50%; }
+  .sp1 { max-width: 50%; }
+}
 /*# sourceMappingURL=styl2.css.map */
