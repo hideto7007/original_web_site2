@@ -299,8 +299,218 @@ h6 {
 
 
 @media only screen and (max-width: 670px) {
-  .sp { max-width: 100%; }
-  .sp1 { max-width: 100%; }
-}
+
+  .top-wapper {
+    height: 50%
+  }
+  
+  h1 {
+    font-size: 200%;
+    position: relative;
+    bottom: 180px;
+  }
+  
+  .body_title h4 {
+    font-size: 20px;
+    padding: 15px 0 15px 0;
+  }
+  
+  
+  
+  
+  .od-body1 {
+    position: relative;
+    right: 105px;
+    top: 5px;
+    width: 25%;
+  }
+  
+  .title1 {
+    font-size: 20%;
+    position: relative;
+    left: 100px;
+    top: 5px;
+    color: black;
+  }
+  
+  .text1 {
+    font-size: 10%;
+    position: relative;
+    left: 100px;
+    top: 5px;
+    color: black;
+  }
+  
+  .od-body2 {
+   position: relative;
+    right: 115px;
+    width: 20%;
+    top: 20px;
+  }
+  
+  .title2 {
+    font-size: 20%;
+    position: relative;
+    left: 110px;
+    top: 5px;
+    color: black;
+  }
+  
+  .text2 {
+    font-size: 15%;
+    position: relative;
+    left: 110px;
+    top: 5px;
+    color: black;
+  }
+  
+  .od-body3 {
+    width: 20%;
+    position: relative;
+    right: 115px;
+    color: black;
+    top: 30px;
+    height: 260px;
+  }
+  
+  .title3 {
+    font-size: 20%;
+    position: relative;
+    left: 105px;
+    top: 5px;
+    color: black;
+  }
+  
+  .text3 {
+    font-size: 15%;
+    position: relative;
+    left: 105px;
+    top: 5px;
+    color: black;
+  }
+  
+  .od_sub {
+    font-size: 20px;
+    background: linear-gradient(-45deg, rgba(161, 233, 221, 0.8), rgba(184, 187, 183, 0.363)), url(C:/web/WEB_production_2/img/outdoor_⑭.jpg);
+    background-size: cover;
+    padding: 40px 0px 15px 0px;
+    height: 890px;
+  }
+  
+  .od_sub_all {
+    position: relative;
+    bottom: 70px;
+  }
+  
+  .od_sub_all1 {
+    position: relative;
+    bottom: 40px;
+  }
+  
+  h4 {
+    color: black;
+    position: relative;
+    bottom: 40px;
+    background-color: antiquewhite;
+    padding: 15px 0 15px 0;
+    bottom: 70px;
+  }
+  
+  .od_sub_text h5 {
+    font-size: 20px;
+    color: black;
+    position: relative;
+    bottom: 80px;
+  }
+  
+  .od_sub1 {
+    width: 25%;
+    position: relative;
+    right: 70px;
+    bottom: 30px;
+  }
+  
+  
+  
+  .title4 {
+    position: relative;
+    left: 65px;
+    bottom: 200px;
+    color: white;
+  }
+  
+  .od_sub2 {
+    width: 25%;
+    position: relative;
+    bottom: 43px;
+    right: 70px;
+  }
+  
+  
+  
+  .title5 {
+    position: relative;
+    bottom: 210px;
+    left: 60px;
+    color: white;
+  }
+  
+  .od_sub3 {
+    position: relative;
+    bottom: 60px;
+    left: -3px;
+  }
+  
+  
+  
+  .title6 {
+    position: relative;
+    bottom: 220px;
+    left: 0px;
+    color: white;
+  }
+  
+  .od_sub_text p {
+    font-size: 20px;
+    color: black;
+    letter-spacing: 2px;
+  }
+  
+  .unordered_list {
+    background-color: #abe0e7;
+    text-align: center;
+    height: 300px;
+    position: relative;
+    top: 100px;
+  }
+  
+  .unordered_list h1 {
+    color: black;
+    position: relative;
+    bottom: 250px;
+    letter-spacing: 3px;
+    height: 200px;
+  }
+  
+  .sns_icon {
+    font-size: 100%;
+    position: relative;
+    bottom: 170px;
+  }
+  
+  .access {
+    position: relative;
+    bottom: 160px;
+  }
+  
+  h6 {
+    position: relative;
+    bottom: 175px;
+  }
+  
+  
+  
+  }
+
       
      
